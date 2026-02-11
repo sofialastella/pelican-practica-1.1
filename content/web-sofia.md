@@ -6,5 +6,7 @@ Author: Sofía
 
 Hola! Este es mi primer post usando Pelican.
 
+Esta página está desplegada con Github Actions.
+
 
 
