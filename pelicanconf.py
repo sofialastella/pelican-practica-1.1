@@ -1,6 +1,6 @@
 AUTHOR = 'Sofia'
 SITENAME = 'Web de sofia'
-SITEURL = ""
+SITEURL = "https://sofialastella.github.io/pelican-practica-1.1"
 
 PATH = "content"
 
